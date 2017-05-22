@@ -7,7 +7,7 @@ this document are to be interpreted as described in RFC 2119.
 ## 1. Purpose
 
 This specification attempts to create a standard for styling
-geospatial data, setting popup contents, and listing images and YoutTube videos for a feature
+geospatial data, setting popup contents, and listing images and YouTube videos for a feature
 that can be easily uploaded to [MapperKeeper](http://www.mapperkeepeer.com).
 
 ## 2. Format
