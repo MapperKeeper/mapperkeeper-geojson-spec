@@ -38,6 +38,11 @@ valid [JSON](http://json.org/) format.
             // A description that shows up in the popup under the
             // header.  A description should explain the feature.
             "description": "A description",
+            
+            // OPTIONAL: default ""
+            // A valid address that can be used to navigate to the 
+            // feature.
+            address: "A valid address",
 
             // OPTIONAL: default "medium"
             // specify the size of the marker. sizes
