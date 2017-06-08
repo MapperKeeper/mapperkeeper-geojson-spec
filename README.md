@@ -28,11 +28,11 @@ valid [JSON](http://json.org/) format.
         },
         "properties": {
             // OPTIONAL: default ""
-            // A title that shows up in the popup header.
+            // A name for your feature that shows up in the popup header.
             // Links can be quickly accessed when writing
             // in the content panel by typing the @ symbol then
-            // selecting a feature by its title.
-            "title": "A title",
+            // selecting a feature by its name.
+            "name": "A name or title",
 
             // OPTIONAL: default ""
             // A description that shows up in the popup under the
